@@ -1,0 +1,5 @@
+flask==3.0.3
+mysql-connector-python==9.0.0
+requests==2.32.3
+textblob==0.18.0.post0
+pandas==2.2.3
